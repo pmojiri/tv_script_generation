@@ -12,6 +12,11 @@ git clone https://github.com/pmojiri/tv_script_generation.git
 ```
 This way you can stay up to date with any changes I make by pulling the changes to your local repository with git pull.
 
+Open a terminal window and navigate to the project folder. Open the notebook and follow the instructions.
+```
+jupyter notebook dlnd_tv_script_generation.ipynb
+
+```
 ## Example generated script
 ```
 jerry: i think i was going to do this. it's a good time.
