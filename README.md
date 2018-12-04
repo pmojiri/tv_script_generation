@@ -12,7 +12,7 @@ git clone https://github.com/pmojiri/tv_script_generation.git
 ```
 This way you can stay up to date with any changes I make by pulling the changes to your local repository with git pull.
 
-## Example generated
+## Example generated script
 ```
 jerry: i think i was going to do this. it's a good time.
 
